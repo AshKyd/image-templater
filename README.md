@@ -25,6 +25,10 @@ for these with certain stylistic markers.
   replace these with images of the same dimension. Set a unique colour for each
   image, or group similar images by colour.
 
+An example template:
+
+![A template containing lots of placeholder text and coloured boxes](examples/example-in.png)
+
 ## Inserting the values
 
 Once the template is made, you should:
@@ -32,6 +36,10 @@ Once the template is made, you should:
 1. Decide which data needs to be inserted where. See the [Making a template](#making-a-template)
    section to understand how to query different data types.
 2. Use the library to insert your values
+
+The previous example template with values filled in:
+
+![The placeholder text and boxes have all been filled in, and this is the perfect social media thumbnail](examples/example-out.png)
 
 ## Example code
 
